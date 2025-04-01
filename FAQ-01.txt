@@ -1,0 +1,29 @@
+- É possível resetar/zerar a base de dados de um colaborador/usuario?
+Resposta: Não aplicamos o reset ou delete do histórico de colaboradores no projeto por algumas razões técnicas e metodológicas: 
+
+A exclusão do histórico implica em perda da evidência de participação ao longo do tempo, o que não é recomendável em hipótese alguma no processo do projeto, que tem como objetivo ser uma ferramenta adicional de segurança e saúde na rotina operacional;
+
+Em termos de método a exclusão ou reset do banco de dados não implica em melhora da performance uma vez que a manutenção de desvios atuais indica que há algo no comportamento ou condição da colaboradora que precisa ser trabalhado, seja por questões psicossociais ou clínicas, seja mesmo por desempenho na avaliação. A exclusão não assegura uma melhora do resultado, sem tratar a causa do impacto na prontidão atual;
+
+Além disso, nosso sistema tem a inteligência de uma base de dados móvel, ou seja, cada nova avaliação se soma às médias da pessoa, compondo um banco de dados individual bem recente e atualizado. Dessa forma, a pessoa é comparada em seu estado de hoje com as médias da sua performance nas últimas 30 avaliações, que é atualizada a cada nova avaliação realizada, oportunizando que a média "melhore" a partir da melhora do resultado diário da pessoa nas avaliações;
+
+Recomendamos a avaliação psicossocial e clínica da pessoa para descarte de qualquer condição de impacto. Em paralelo a essa análise minuciosa, recomendamos uma performance assistida, que oportuniza identificar como a pessoa está executando a avaliação e se temos oportunidade de orientação/melhoria da experiência e sanar possíveis dúvidas;
+
+Em caso de manutenção dos desvios, podemos oferecer uma senha de teste temporária para que realize algumas avaliações de sensibilização, sem impacto no seu próprio banco de dados, para evitar o dano de ansiedade e preocupação com o resultado, alterando sua performance diária no projeto. Essa medida não retira a necessidade da sua avaliação em seu próprio usuários, apenas adicionamos por alguns dias essa avaliação de teste para uma sensibilização e manejo da ansiedade com a avaliação, se for o caso.
+
+Caso tenham qualquer dúvida ou consideração, estamos à disposição para auxiliar. Podemos propor o estudo do caso por nosso time multidisciplinar, com sugestões de investigação para a saúde ocupacional, se for o caso.
+
+- Casos de suspender de atividade de risco o próprio funcionário preencher a entrevista direcionada. A entrevista é registrada pelo supervisor. A sugestão é assinatura eletrônica/registro em nome do empregado também.
+Resposta: A entrevista direcionada é um recurso para o líder. O propósito da entrevista direcionada é possibilitar o cuidado ativo e auxiliar à tomada de decisão do líder para encaminhamentos decorrentes da entrevista. Durante o contato com o colaborador no processo de entrevista, a proposta incluída no sistema atua como roteiro ao contato direto com o colaborador. É um direcionamento ao contato, com oportunidade de aprofundar o conhecimento sobre algumas condições referidas pelo colaborador. Isso cria uma oportunidade valiosa de aproximação e de trabalhar a segurança psicológica.
+
+Além disso, o recurso quando registrado pelo líder se torna uma evidência importante de atuação preventiva, que demonstra seu contato e sua gestão sobre o resultado do Prontos.
+
+O usuário já responde um questionário de bem-estar dentro do Prontos, logo, não faria sentido do ponto de vista técnico ele responder novamente, às questões que já relatou.
+
+- Reduzir o período da análise sistêmica (preditor de risco) dos testes de cada empregado para termos mais precisão dos dados para tratativas mais eficazes. Mesmo quando existe mudança para “melhor” ele suspende.
+
+Resposta: O período de análise do preditor de risco é baseado em literatura científica e estudos estatísticos robustos. Qualquer alteração precisaria de ser validada cientificamente. O preditor de risco é um parâmetro dentre as diferentes variáveis do Sistema Prontos que passa por constantes análises e atualizações a medida do crescimento do bigdata de exames realizados. Além de considerar a análise intraindividual (variação de performance e outras variáveis do próprio sistema), considera também indicadores da literatura científica associada a maiores chances e riscos de acidentes, portanto a performance na execução específica do dia associada a informações e predições populacionais que geram o preditor de risco. 
+
+O uso de uma média móvel composta pelas últimas 30 avaliações é atestada por diferentes estudos e por análises temporais que possibilitam acompanhar mudanças comportamentais. Logo, o preditor de risco está configurado no período de análise com melhor predição de acidente. A característica preditiva desta variável sinaliza para variações que podem impactar o comportamento na área e consequentemente aumentar a chances de ocorrências.
+
+Caso o colaborador demonstre melhora, ainda pode sugerir que deve redobrar a prontidão, observar comportamentos e praticar hábitos de qualidade de vida (higiene do sono e outros). Importante também sempre analisar em associação com outros parâmetros e com indicador de fadiga.
